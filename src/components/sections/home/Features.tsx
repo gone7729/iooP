@@ -1,6 +1,6 @@
 export default function Features() {
   return (
-    <section className="py-30 bg-gray-100">
+    <section className="py-30 bg-white">
       <div className="flex flex-row">
         <div className="container mx-auto px-4 flex flex-col items-center">
             <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
